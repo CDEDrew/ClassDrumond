@@ -79,4 +79,8 @@ class PagesController extends AppController {
 
 		
 	}
+
+	public function Nolin(){
+		
+	}
 }
