@@ -83,4 +83,8 @@ class PagesController extends AppController {
 	public function Nolin(){
 		
 	}
+	
+	public function drassel(){
+	
+	}
 }
